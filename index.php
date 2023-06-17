@@ -10,14 +10,16 @@ if (mysqli_connect_errno()) {
 
 <!DOCTYPE html>
 <html lang="en">
+
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <script src="https://code.jquery.com/jquery-3.7.0.min.js"></script>
     <link rel="stylesheet" href="style.css">
     <script src="script/script.js"></script>
-    <title>Document</title>
+    <title>Yanai's Book store</title>
 </head>
+
 <body>
     <h1 class="title">Welcome to Yanai's Book store</h1>
     <div class="select">

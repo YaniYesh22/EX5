@@ -20,7 +20,7 @@ if ($result) {
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <script src="https://code.jquery.com/jquery-3.7.0.min.js"></script>
     <link rel="stylesheet" href="style.css">
-    <title>Document</title>
+    <title>Book page</title>
 </head>
 <body>
     <?php
